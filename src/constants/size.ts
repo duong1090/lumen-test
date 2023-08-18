@@ -1,0 +1,18 @@
+export const SIZE = {
+  SIZE_1: 1,
+  SIZE_2: 2,
+  SIZE_5: 5,
+  SIZE_10: 10,
+  SIZE_12: 12,
+  SIZE_14: 14,
+  SIZE_16: 16,
+  SIZE_18: 18,
+  SIZE_20: 20,
+  SIZE_22: 22,
+  SIZE_25: 25,
+  SIZE_30: 30,
+  SIZE_35: 35,
+  SIZE_40: 40,
+  SIZE_45: 45,
+  SIZE_50: 50,
+};
